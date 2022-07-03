@@ -1,4 +1,7 @@
-﻿/* Jean Bilong */
+﻿/* Jean Bilong 
+ * CSCI-1260-090
+   Project Summer 1
+   Last Date of change 7/3/2022*/
 
 
 
